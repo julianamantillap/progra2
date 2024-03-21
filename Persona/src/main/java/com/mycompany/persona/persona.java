@@ -44,8 +44,8 @@ public class persona {
         this.altura = altura;
     }
 
-    persona(String juan, int i, char c, double d, double d0) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    persona(String juliana, int i, char c, double d, double d0) {
+        
     }
     
     public int calcularIMC(){
